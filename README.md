@@ -1,6 +1,6 @@
-#Lab 4 (Your Portfolio)
+# Lab 4 (Your Portfolio)
 
-##Each assignment and lab shall include a README file that describes the work. This description must:
+## Each assignment and lab shall include a README file that describes the work. This description must:
 
 1. Identify what aspects of the work have been correctly implemented and what have not.
 2. Identify anyone with whom you have collaborated or discussed the assignment.
