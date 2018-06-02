@@ -5,7 +5,22 @@ body {
     font-size: 1.2em;
     color: #F6B045;
 }
-
+h1 {
+    font-size: 3em;
+    line-height: 1;
+}
+h2 {
+    font-size: 2em;
+    line-height: 1;
+}
+h3 {
+    font-size: 1.66em;
+    line-height: 1;
+}
+h4 {
+    font-size: 1.33em;
+    line-height: 1;
+}
 section {
     text-align: left;
 }
@@ -18,12 +33,23 @@ section {
 #education p {
     margin-left: 0.33em;
 }
+#coursework ul{
+    margin-left: 0.5em;
+}
 #experience .employer {
     margin-left: 0.5em;
 }
-#experience .job {
-    margin-left: 0.33em;
+.employer p {
+    margin-left: 0em;
 }
-#experience p {
-    margin-left: 0.33em;
+#experience .job {
+    margin-left: 0.5em;
+}
+.job h4 {
+}
+.job p {
+    margin-left: 0em;
+}
+#skills p {
+    margin-left: 1.0em;
 }
