@@ -1,0 +1,20 @@
+
+body {
+    background-color: #608FAC;
+    font-family: serif;
+    font-size: 1.2em;
+    color: #F6B045;
+}
+
+section {
+    text-align: left;
+}
+
+h1 {
+    font-size: 2em;
+    text-indent: 1em hanging each-line;
+}
+
+h1 {
+    /* text-indent: 1em hanging each-line; */
+}
