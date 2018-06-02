@@ -1,7 +1,7 @@
 
 body {
     background-color: #608FAC;
-    font-family: serif;
+    font-family: system-ui;
     font-size: 1.2em;
     color: #F6B045;
 }
@@ -9,12 +9,12 @@ body {
 section {
     text-align: left;
 }
-
-h1 {
-    font-size: 2em;
-    text-indent: 1em hanging each-line;
+#education .school {
+    margin-left: 0.5em;
 }
-
-h1 {
-    /* text-indent: 1em hanging each-line; */
+#education .program {
+    margin-left: 0.33em;
+}
+#education p {
+    margin-left: 0.33em;
 }
