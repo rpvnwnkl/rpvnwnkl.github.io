@@ -18,3 +18,12 @@ section {
 #education p {
     margin-left: 0.33em;
 }
+#experience .employer {
+    margin-left: 0.5em;
+}
+#experience .job {
+    margin-left: 0.33em;
+}
+#experience p {
+    margin-left: 0.33em;
+}
