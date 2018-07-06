@@ -1,0 +1,32 @@
+body {
+    text-align: left;
+    font-size: 1em;
+    font-family: Helvetica, sans-serif;
+}
+#messume {
+    display: block;
+    max-width: 85%;
+    margin: auto;
+}
+.message {
+    text-align: left;
+    display: inline-block;
+    max-width: 55%;
+    margin: auto;
+    margin-bottom: 1em;
+    padding: 0.66em 1em 0.5em;
+    border-radius: 1em;
+} 
+.gray {
+    text-align: left;
+}
+.gray .message {
+    background-color: #E5E5EA;
+}
+.blue {
+    text-align: right;
+}
+.blue .message {
+    background-color: #0C82F8;
+    color: #FFFFFF;
+}
