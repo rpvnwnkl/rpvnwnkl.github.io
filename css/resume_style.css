@@ -1,13 +1,13 @@
 
 body {
-    background-color: #608FAC;
+    background-color: white;
     font-family: system-ui;
     font-size: 1.2em;
-    color: #F6B045;
+    color: black;
 }
 h1, h2, h3, h4 {
     margin: 0 0 0 0;
-    text-shadow: 1px 1px 2px #1A78B8;
+    text-shadow: 1px 1px 2px gray;
 }
 h1 {
     font-size: 3em;
@@ -30,7 +30,7 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #f6b045;
+    border-top: 1px solid gray;
     margin: 1em 0;
     padding: 0;
 }
